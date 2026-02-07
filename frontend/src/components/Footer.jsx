@@ -89,7 +89,7 @@ export const Footer = ({
 
         <div className="flex items-center gap-2">
           <h2 className="text-[0.65rem] font-medium text-c-light tracking-[2px]">
-            Made by <a href='https://github.com/AlmartDev'>@AlmartDev</a> with 
+            Made by <a href='https://github.com/aloyak'>@aloyak</a> with 
             <button 
               onClick={onOpenSecretModal} 
               className="ml-1 transition-all active:scale-90 cursor-text"
@@ -100,7 +100,7 @@ export const Footer = ({
           <a href="https://flavortown.hackclub.com/projects/7483" className="p-2 text-c-light hover:text-c-text-main transition-colors">
               <Candy size={18}/>
           </a>
-          <a href="https://github.com/AlmartDev/ReadCoach" className="p-2 text-c-light hover:text-c-text-main transition-colors">
+          <a href="https://github.com/aloyak/ReadCoach" className="p-2 text-c-light hover:text-c-text-main transition-colors">
               <Github size={18}/>
           </a>
         </div>
