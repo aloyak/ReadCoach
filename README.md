@@ -11,3 +11,7 @@ port 5173 for frontend and 8000 for backend (not in use right now), the docker f
 ```sh
 sudo docker-compose up --build
 ```
+
+### Preview
+
+![preview](./preview.png)
